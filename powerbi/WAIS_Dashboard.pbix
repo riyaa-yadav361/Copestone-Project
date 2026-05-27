@@ -1,0 +1,12 @@
+This is a placeholder for the Power BI dashboard file. Create WAIS_Dashboard.pbix in Power BI Desktop with the following visualizations:
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Average Monthly Income
+- Department-wise Attrition
+- Job Role-wise Attrition
+- Overtime vs Attrition
+- Job Satisfaction vs Attrition
+- Work Life Balance vs Attrition
+- High Risk Employees Table
+- Filters: Department, Gender, Job Role, OverTime, Marital Status
